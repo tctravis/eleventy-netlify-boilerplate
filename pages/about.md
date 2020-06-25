@@ -6,15 +6,15 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec cursus sollicitudin nisi eu laoreet. Cras tempus tortor et ex placerat, id viverra ante fermentum. Curabitur ultricies massa ullamcorper lacinia blandit.
+Well, I have to admit that was very easy.
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
+Capitalize\
+on\
+low\
+hanging\
 fruit  
 
 ## Our services
