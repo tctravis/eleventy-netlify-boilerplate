@@ -10,4 +10,8 @@ testimonials:
     author:
       name: Emmet
       avatar: /static/img/logo.png
+  - quote: Everything is cool when you're part of a team
+    author:
+      name: Emmet again
+      avatar: /static/img/logo.svg
 ---
